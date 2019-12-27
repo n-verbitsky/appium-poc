@@ -1,0 +1,1 @@
+This is Appium training project based on "Getting Started With Appium" by Jonathan Lipps
